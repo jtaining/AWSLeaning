@@ -1,0 +1,12 @@
+g{
+	"folders": [
+		{
+			"path": "../../../My files/HelloWorldLightningWebComponent/force-app/main/default"
+		},
+		{
+			"name": "troubleshoot-lwc",
+			"path": "../../../troubleshoot-lwc/troubleshoot-lwc"
+		}
+	],
+	"settings": {}
+}

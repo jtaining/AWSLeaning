@@ -158,7 +158,7 @@
     <p style="text-align:center; max-width:800px; margin:auto;">
         CloudNova is a technology-focused team delivering cloud, DevOps, and web
         solutions for businesses of all sizes. Our mission is to simplify technology
-        and help organizations grow faster and smarter.
+        and help organizations grow faster, smoother and smarter.
     </p>
 </section>
 
