@@ -1,0 +1,31 @@
+sttaic website host in aws
+
+
+root user 
+
+Sudo su
+
+Update package 
+
+yum update -y
+
+insatll apache
+
+yun install -y httpd
+
+Enable and start the Apache service
+
+systemctl enable httpd
+systemctl start httpd
+
+Html code
+
+cd /var/www/html/
+ vi index.html
+ 
+write your html 
+
+ESC 
+:wq
+
+run public IP
